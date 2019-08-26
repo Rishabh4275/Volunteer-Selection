@@ -1,3 +1,4 @@
 # Volunteer-Selection
 
-This program can be used to select an NGO based on the number of people and vice versa.
+An NGO can select people based on the home distance, manpower and time requirement.
+A person can select an NGO based on the distance, his time availability, preference.  
